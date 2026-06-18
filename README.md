@@ -2,7 +2,7 @@
 **AI Impact on Indian Economy and Living**
 
 **Domain**
-Data Analytics | Business Intelligence | Artificial Intelligence.
+Data Analytics | Business Intelligence 
 
 **Project overview:**
     Artificial Intelligence (AI) is transforming industries by improving productivity, automating tasks, reducing costs, and enhancing decision-making. This project aims to analyze the impact of AI adoption across various sectors in India and evaluate its influence on economic growth, employment, productivity, and living standards.
