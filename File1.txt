@@ -1,0 +1,13 @@
+Started new Project 
+
+Problem Statement : AI Impact on Indian Economy and Living
+
+Phases
+Phase 1: Understanding Business Problem
+Phase 2: Define KPIs
+Phase 3: Collect DataSets
+Phase 4: Data Cleaning
+Phase 5: Build the datamodel
+Phase 6:Perform Analysis
+Phase 7: Dashboard Design
+Phase 8: Correlation analysis
